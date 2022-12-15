@@ -1,2 +1,2 @@
 # HTML
-practicing the html
+practicing the html only
